@@ -1,10 +1,11 @@
 <p align="center" style="padding-bottom:0; margin-bottom:0;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer&font=Fira%20Code&center=true&width=380&height=50">
+   <img src= https://media.licdn.com/dms/image/D4D16AQEHzw5Mzby9sA/profile-displaybackgroundimage-shrink_350_1400/0/1694426190189?e=1700092800&v=beta&t=AtRFAXF8HXNsHT3OJGKBUksshk689YSUAQv5XrThETs">
 </p>
 
 <p align="center" style="padding-bottom:0; margin-bottom:0;">
     <h3 align="center">Hi there! 👋
-    <!-- <br /> I'm Serhii Borodin. -->
+    <!-- <br /> I'm Alex. -->
     <br /> Welcome to my GitHub profile.
     </h3>
 </p>
