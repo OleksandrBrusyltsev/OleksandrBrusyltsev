@@ -63,8 +63,8 @@ I’m a Python Backend Developer.
 
 ### 💻 My Projects:
 
-- Python , Flask , PostgreSQL - [Hotel Booking Service (HMS)](https://github.com/OleksandrBrusyltsev/HMS_Flask)
-- Python, PostgreSQL , aiogram - [Telegtam bot booking room](https://t.me/VisitingGrandpasVillageBot)
+- Python , Flask , PostgreSQL - [Hotel Booking Service for hotel (HMS)](https://github.com/OleksandrBrusyltsev/HMS_Flask)
+- Python, PostgreSQL , aiogram - [Telegram bot - Booking Room](https://t.me/VisitingGrandpasVillageBot)
 <!-- - [Сертификат Python-разработчик]()
 - [Резюме]() -->
 <br/>  
