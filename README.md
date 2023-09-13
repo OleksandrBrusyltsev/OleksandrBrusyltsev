@@ -22,7 +22,7 @@ I’m a Python Backend Developer.
 - 💪 I like to write code.
 - 🔭 I’m developing a backend for web applications.
 - ⚡ I’m constantly learning new things.
-- 🌱 I’m currently learning **Python, Django , Flask**.
+- 🌱 I’m currently learning **Python, Django , Flask , TelegramAPI**.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:brusiltsev1@gmail.com)
 
 
