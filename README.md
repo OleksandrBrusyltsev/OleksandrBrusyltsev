@@ -73,14 +73,5 @@ I’m a Python Backend Developer.
 <div align="center">
     <p>
         <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    </p>
-    <a href="https://github.com/serj-goa?tab=repositories&sort=stargazers">
-        <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/serj-goa"/>
-    </a>
-    <a href="https://github.com/serj-goa">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/serj-goa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-    <a href="https://github.com/serj-goa/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=serj-goa&style=for-the-badge&color=lightgrey">
-    </a>
+
 </div>
