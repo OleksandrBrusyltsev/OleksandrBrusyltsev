@@ -17,7 +17,7 @@ I’m a Python Backend Developer.
 - 💪 I like to write code.
 - 🔭 I’m developing a backend for web applications.
 - ⚡ I’m constantly learning new things.
-- 🌱 I’m currently learning **Python, Django**.
+- 🌱 I’m currently learning **Python, Django , Flask**.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-serhii--borodin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-borodin/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bsy.prog@gmail.com)
 
 
@@ -58,10 +58,8 @@ I’m a Python Backend Developer.
 
 ### 💻 My Projects:
 
-- Django, Docker - [ToDoList Project](https://github.com/serj-goa/todolist_project)
-- Python, PostgreSQL, API - [Dating bot VK-Finder](https://github.com/serj-goa/vk-finder-project)
-- Python, PostgreSQL - [Working with raw SQL queries](https://github.com/serj-goa/northwind-traders-db)
-- HTML, CSS - [Lawyer-center landing page](https://github.com/serj-goa/lawyer-center-landing-page-project)
+- Python , Flask , PostgreSQL - [Hotel Booking Service (HMS)](https://github.com/OleksandrBrusyltsev/HMS_Flask)
+- Python, PostgreSQL , aiogram - [Telegtam bot booking room](https://t.me/VisitingGrandpasVillageBot)
 <!-- - [Сертификат Python-разработчик]()
 - [Резюме]() -->
 <br/>  
@@ -70,18 +68,6 @@ I’m a Python Backend Developer.
 
 <br />
 
-### ⚙️ GitHub Analytics
-
-<table style="border:None; border-collapse:collapse; border-spacing:0;">
-    <tr>
-        <td>
-            <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=serj-goa&theme=vision-friendly-dark" alt="webDev's Github stats" />
-        </td>
-        <td>
-            <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=serj-goa&theme=vision-friendly-dark&layout=compact" />
-        </td>
-    </tr>
-</table>
 
 
 <div align="center">
