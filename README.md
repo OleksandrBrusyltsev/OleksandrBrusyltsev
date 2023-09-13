@@ -1,6 +1,7 @@
 <p align="center" style="padding-bottom:0; margin-bottom:0;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer&font=Fira%20Code&center=true&width=380&height=50">
-   <img src= https://media.licdn.com/dms/image/D4D16AQEHzw5Mzby9sA/profile-displaybackgroundimage-shrink_350_1400/0/1694426190189?e=1700092800&v=beta&t=AtRFAXF8HXNsHT3OJGKBUksshk689YSUAQv5XrThETs">
+   ![Frame 570](https://github.com/OleksandrBrusyltsev/OleksandrBrusyltsev/assets/124603897/bec1f45d-e365-4ef8-8b37-9d31e0c0579b)
+
 </p>
 
 <p align="center" style="padding-bottom:0; margin-bottom:0;">
