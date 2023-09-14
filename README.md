@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer&font=Fira%20Code&center=true&width=380&height=50" alt="Python Backend Developer">
     <br>
     <img src="https://media.licdn.com/dms/image/D4D16AQEHzw5Mzby9sA/profile-displaybackgroundimage-shrink_350_1400/0/1694426190189?e=1700092800&v=beta&t=AtRFAXF8HXNsHT3OJGKBUksshk689YSUAQv5XrThETs" alt="Background Image">
-
+     
 
 </p>
 
@@ -23,7 +23,10 @@ I’m a Python Backend Developer.
 - 🔭 I’m developing a backend for web applications.
 - ⚡ I’m constantly learning new things.
 - 🌱 I’m currently learning **Python, Django , Flask , TelegramAPI**.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:brusiltsev1@gmail.com)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:brusiltsev1@gmail.com)<a href="https://t.me/Oleksandr_Alex">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo" style="max-width: 100%;">
+</a>
+
 
 
 ---
