@@ -2,7 +2,7 @@
      align="center" style="padding-bottom:0; margin-bottom:0;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer&font=Fira%20Code&center=true&width=380&height=50" alt="Python Backend Developer">
     <br>
-    <img src="https://media.licdn.com/dms/image/D4D16AQEHzw5Mzby9sA/profile-displaybackgroundimage-shrink_350_1400/0/1694426190189?e=1700092800&v=beta&t=AtRFAXF8HXNsHT3OJGKBUksshk689YSUAQv5XrThETs" alt="Background Image">
+    <img src="[https://media.licdn.com/dms/image/D4D16AQEHzw5Mzby9sA/profile-displaybackgroundimage-shrink_350_1400/0/1694426190189?e=1700092800&v=beta&t=AtRFAXF8HXNsHT3OJGKBUksshk689YSUAQv5XrThETs](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Background Image">
      
 
 </p>
