@@ -62,20 +62,8 @@ I’m a Python Backend Developer.
 <br />
 <br />
 
----
-
-### 💻 My Projects:
-- Pytho, PostgreSQL, Django Rest Framework [Talk Chat: Real-time Chat Web Application](https://github.com/OleksandrBrusyltsev/Talk_Chat_)
-- Python , Flask , PostgreSQL - [Hotel Booking Service for hotel (HMS)](https://github.com/OleksandrBrusyltsev/HMS_Flask)
-- Python, PostgreSQL , Aiogram - [Telegram bot - Booking Room](https://t.me/VisitingGrandpasVillageBot)
-
 <!-- - [Сертификат Python-разработчик]()
 - [Резюме]() -->
-<br/>  
-
----
-
-<br />
 
 
 
