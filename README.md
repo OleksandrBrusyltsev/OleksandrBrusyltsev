@@ -23,7 +23,7 @@ I’m a Python Backend Developer.
 - 🔭 I’m developing a backend for web applications.
 - ⚡ I’m constantly learning new things.
 - 🌱 I’m currently learning **Python, Django(DRF) , FastAPI , TelegramAPI**.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:brusiltsev1@gmail.com)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
    
 </a>
 
