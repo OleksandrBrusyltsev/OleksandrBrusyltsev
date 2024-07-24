@@ -26,8 +26,6 @@ I’m a Python Backend Developer.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
    
 </a>
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=OleksandrBrusyltsev&theme=blueberry&hide_border=true)
-
 
 ---
 
