@@ -17,7 +17,11 @@
 ---
 
 ### 👨‍💻 &nbsp;About Me:
-I’m a Python Backend Developer.
+🚀 Backend Development: FastAPI, Django REST Framework, Asyncio
+🛠️ DevOps: AWS (EC2, S3, RDS), Docker, CI/CD
+🔍 Testing: Unittest, Pytest
+📈 Current Project:  AI-driven cybersecurity
+
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
    
