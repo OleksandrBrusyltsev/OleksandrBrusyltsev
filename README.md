@@ -16,7 +16,18 @@
 
 ---
 
+### 👨‍💻 &nbsp;About Me:
+ <br>🚀 Backend Development: FastAPI, Django REST Framework, Asyncio
+ <br>🛠️ DevOps: AWS (EC2, S3, RDS), Docker, CI/CD
+ <br>🔍 Testing: Unittest, Pytest
+ <br>📈 Current Project:  AI-driven cybersecurity
 
+
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
+   
+</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrBrusyltsev&theme=blueberry&hide_border=true" alt="OleksandrBrusyltsev's GitHub Stats" />
+---
 
 ### 🛠 &nbsp;Languages and Tools :
 
