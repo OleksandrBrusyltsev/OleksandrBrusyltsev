@@ -1,24 +1,20 @@
+<p 
+     align="center" style="padding-bottom:0; margin-bottom:0;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer&font=Fira%20Code&center=true&width=380&height=50" alt="Python Backend Developer">
+    <br>
+    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Background Image">
+     
+
+</p>
+
+<p align="center" style="padding-bottom:0; margin-bottom:0;">
+    <h3 align="center">Hi there! 👋
+    <!-- <br /> I'm Alex. -->
+    <br /> Welcome 👋.
+    </h3>
+</p>
+
 ---
-
-### 👨‍💻 &nbsp;About Me:
- <br>🚀 Backend Development: FastAPI, Django REST Framework, Asyncio
- <br>🛠️ DevOps: AWS (EC2, S3, RDS), Docker
- <br>📈 Current Project:  AI-driven cybersecurity
-
-
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
-   
-</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrBrusyltsev&theme=blueberry&hide_border=true" alt="OleksandrBrusyltsev's GitHub Stats" />
----
-
----
-
-### 👨‍💻 &nbsp;About Me:
- <br>🚀 Backend Development: FastAPI, Django REST Framework, Asyncio
- <br>🛠️ DevOps: AWS (EC2, S3, RDS), Docker
- <br>📈 Current Project:  AI-driven cybersecurity
-
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
    
@@ -56,7 +52,6 @@
 
 <br />
 <br />
-
 
 
 <div align="center">
