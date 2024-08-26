@@ -19,10 +19,6 @@
 ### 👨‍💻 &nbsp;About Me:
 I’m a Python Backend Developer.
 
-- 💪 I like to write code.
-- 🔭 I’m developing a backend for web applications.
-- ⚡ I’m constantly learning new things.
-- 🌱 I’m currently learning **Python, Django(DRF) , FastAPI , TelegramAPI**.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Oleksandr--Brusyltsev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-brusyltsev/)
    
 </a>
