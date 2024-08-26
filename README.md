@@ -17,9 +17,7 @@
 ---
 
 ### 👨‍💻 &nbsp;About Me:
-##🚀 Backend Development: FastAPI, Django REST Framework, Asyncio
-##🛠️ DevOps: AWS (EC2, S3, RDS), Docker, CI/CD
-##🔍 Testing: Unittest, Pytest
+/n ##🚀 Backend Development: FastAPI, Django REST Framework, Asyncio
 ##📈 Current Project:  AI-driven cybersecurity
 
 
