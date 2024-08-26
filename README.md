@@ -10,7 +10,7 @@
 <p align="center" style="padding-bottom:0; margin-bottom:0;">
     <h3 align="center">Hi there! 👋
     <!-- <br /> I'm Alex. -->
-    <br /> Welcome 👋.
+    <br /> Welcome 🧑‍💻
     </h3>
 </p>
 
